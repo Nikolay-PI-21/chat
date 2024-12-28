@@ -1,0 +1,26 @@
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\bin\Debug\net6.0-windows\Chat-app Client.exe
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\bin\Debug\net6.0-windows\Chat-app Client.deps.json
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\bin\Debug\net6.0-windows\Chat-app Client.runtimeconfig.json
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\bin\Debug\net6.0-windows\Chat-app Client.dll
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\bin\Debug\net6.0-windows\Chat-app Client.pdb
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\bin\Debug\net6.0-windows\Communicator.dll
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\bin\Debug\net6.0-windows\Communicator.pdb
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.csproj.AssemblyReference.cache
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat_app_Client.ChatBox.resources
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat_app_Client.GroupCreator.resources
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat_app_Client.ImageView.resources
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat_app_Client.Login.resources
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat_app_Client.Properties.Resources.resources
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat_app_Client.Signin.resources
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.csproj.GenerateResource.cache
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.AssemblyInfoInputs.cache
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.AssemblyInfo.cs
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.csproj.CoreCompileInputs.cache
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.sourcelink.json
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app.E0B9E6C0.Up2Date
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.dll
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\refint\Chat-app Client.dll
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.pdb
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\Chat-app Client.genruntimeconfig.cache
+C:\Users\ns.osipov\source\repos\Chat-app\Chat-app Client\obj\Debug\net6.0-windows\ref\Chat-app Client.dll
